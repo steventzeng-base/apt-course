@@ -1,0 +1,11 @@
+/*
+    Document   : cms
+    Created on : Jul 4, 2012, 1:50:44 PM
+    Author     : steven
+    Description:
+        Purpose of the stylesheet follows.
+*/
+label.error{
+    color:red
+}
+input.error { border: 2px solid red; }
